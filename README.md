@@ -79,7 +79,7 @@ conscious_ai/
 
 ## 📄 License
 
-[MIT](LICENSE) (or your preferred license)
+no government or military use everyone else non profit research only 🖖
 
 ---
 
